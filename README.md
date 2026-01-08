@@ -1,7 +1,5 @@
 ## Hi there 👋
-![GitHub](htts://img.shields.io/badge/github-repo-blue?logo=github)
-<!--
-**alenajuk74-sketch/alenajuk74-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub] (htts://img.shields.io/badge/github-repo-blue?logo=github)
 
 Here are some ideas to get you started:
 
